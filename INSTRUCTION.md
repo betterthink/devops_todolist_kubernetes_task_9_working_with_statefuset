@@ -8,7 +8,7 @@ Run this command to check status of statefulset
 ```bash
 kubectl get statefulset -n mysql
 ```
-Run this commend to check pods names. It should be mysql-0, mysql-1, mysql-2
+Run this command to check pods names. It should be mysql-0, mysql-1, mysql-2
 ```bash
 kubectl get pods -n mysql
 ```
